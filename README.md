@@ -19,3 +19,5 @@ sudo pacman -S noto-fonts-extra
 ~/.config/gtk-4.0/settings.ini
 
 sudo fc-cache -fv
+
+reboot
