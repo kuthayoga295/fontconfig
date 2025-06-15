@@ -1,4 +1,5 @@
-# fontconfig
+# arch linux fontconfig
+
 Arch Linux Font Configuration File
 ================================================
 sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
